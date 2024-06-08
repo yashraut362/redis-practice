@@ -1,12 +1,12 @@
-# Redis with Node.js Example
+# Redis with node example
 
 This Repository contains the example of the usage of Redis-server with node.
 
-## Installation
+## installation
 
 install redis-server on your machine and start the server.
 
-## Usage run following command
+## usage, run following commands in the terminal
 
 redis-server
 redis-cli
