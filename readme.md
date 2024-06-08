@@ -8,8 +8,10 @@ install redis-server on your machine and start the server.
 
 ## usage, run following commands in the terminal
 
+```
 redis-server
 redis-cli
+```
 
 ## basic commands of string for cli
 
